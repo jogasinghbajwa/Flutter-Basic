@@ -24,3 +24,10 @@ flutter doctor --android-licenses
 
 Demo to setup update path:
 https://www.youtube.com/watch?v=9GuzMsZQUYs&ab_channel=FlutterExplained
+
+Start Flutter basics in hindi:
+https://youtu.be/b0hzRBHz4Uc
+
+Learn flutter in 8 hours:
+https://youtu.be/j-LOab_PzzU
+
